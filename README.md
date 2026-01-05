@@ -7,7 +7,7 @@ ddereck/ddereck is a ✨ special ✨ repository because its `README.md` appears 
   <img src="https://profile-counter.glitch.me/ddereck/count.svg" alt="Visitor Count" />
 </div>
 
-<img src="https://github.com/ddereck/ddereck/blob/main/software-developer.avif" alt="Banner showing backend, systems and network engineering">
+<img align="center" src="https://github.com/ddereck/ddereck/blob/main/software-developer.avif" alt="Banner showing backend, systems and network engineering">
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=44&center=true&vCenter=true&width=900&height=80&color=4493F8&duration=4000&lines=Hi+There!+👋;I'm+Gilles-Dereck+GNANCADJA;Backend+Python+Engineer;Angular+Developer;Systems+%26+Network+Specialist;API+%7C+Linux+%7C+DevOps+Mindset" />
