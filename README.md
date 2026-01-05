@@ -4,7 +4,7 @@ ddereck/ddereck is a ✨ special ✨ repository because its `README.md` appears 
 
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{ddereck}/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/ddereck/count.svg" alt="Visitor Count" />
 </div>
 
 <img src="https://github.com/ddereck/ddereck/blob/main/software-developer.avif" alt="Banner showing backend, systems and network engineering">
