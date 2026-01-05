@@ -16,7 +16,9 @@ ddereck/ddereck is a ✨ special ✨ repository because its `README.md` appears 
 <h3 align="center">
 Backend Python Engineer • Angular Developer • Systems & Network Engineer • Security-Oriented
 </h3>
-
+<div align="center">
+  <img src="https://visitorbadge.io/api/visitors?path=ddereck&label=Visitors&countColor=%234493F8" alt="Visitor" />
+</div>
 ---
 
 ### 👨‍💻 About Me
